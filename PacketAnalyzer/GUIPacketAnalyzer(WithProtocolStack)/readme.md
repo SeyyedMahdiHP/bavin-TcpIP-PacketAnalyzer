@@ -14,3 +14,15 @@
 آیا دات نت فریم ورک نیازه ؟
 دقت کنید که حتما dotnetframwork 4 رو نصب کنید
 </pre>
+
+Step1:
+<br>
+![alt text](https://github.com/SeyyedMahdiHP/MyOtherProjects/blob/master/PacketAnalyzer/GUIPacketAnalyzer(WithProtocolStack)/startup.PNG "Step1: Program Started")
+<br>
+Step2:
+<br>
+![alt text](https://github.com/SeyyedMahdiHP/MyOtherProjects/blob/master/PacketAnalyzer/GUIPacketAnalyzer(WithProtocolStack)/selectNIC.PNG "Select one NetworkCardInterface to start listening")
+<br>
+Step3:
+<br>
+![alt text](https://github.com/SeyyedMahdiHP/MyOtherProjects/blob/master/PacketAnalyzer/GUIPacketAnalyzer(WithProtocolStack)/pktanz.PNG "Listen Started")

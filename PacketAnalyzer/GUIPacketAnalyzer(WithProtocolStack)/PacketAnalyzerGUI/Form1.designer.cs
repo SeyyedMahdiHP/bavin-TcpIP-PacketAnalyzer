@@ -3296,7 +3296,7 @@
             this.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Packet Analyzer";
+            this.Text = "Packet Analyzer-SeyyedMahdiHP";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Resize += new System.EventHandler(this.Form1_Resize);
             this.tableLayoutPanel4.ResumeLayout(false);

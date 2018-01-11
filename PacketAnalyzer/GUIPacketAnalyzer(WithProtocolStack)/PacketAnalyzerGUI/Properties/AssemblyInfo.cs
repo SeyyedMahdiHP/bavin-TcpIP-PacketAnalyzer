@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("PacketAnalyzerGUI")]
-[assembly: AssemblyDescription("this programm has been developed for network protocol education purpose")]
+[assembly: AssemblyDescription("this programm has been developed for network protocol education purpose  https://github.com/SeyyedMahdiHP/MyOtherProjects/PacketAnalyzer")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("SeyyedMahdiHP")]
 [assembly: AssemblyProduct("PacketAnalyzerGUI")]
-[assembly: AssemblyCopyright("MIT License Copyright ©  2014  https://github.com/SeyyedMahdiHP/MyOtherProjects/PacketAnalyzer")]
+[assembly: AssemblyCopyright("MIT License Copyright ©  2014")]
 [assembly: AssemblyTrademark("smahdi1991@gmail.com")]
 [assembly: AssemblyCulture("")]
 

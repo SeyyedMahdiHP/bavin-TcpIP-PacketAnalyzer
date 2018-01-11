@@ -43,7 +43,7 @@
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Location = new System.Drawing.Point(0, 48);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(284, 134);
+            this.listBox1.Size = new System.Drawing.Size(625, 134);
             this.listBox1.TabIndex = 0;
             this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
@@ -84,12 +84,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 182);
+            this.ClientSize = new System.Drawing.Size(625, 182);
             this.Controls.Add(this.label_init);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.listBox1);
             this.Name = "SelectInterface";
-            this.Text = "SelectInterface";
+            this.Text = "SelectInterface-SeyyedMahdiHP";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.SelectInterface_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();

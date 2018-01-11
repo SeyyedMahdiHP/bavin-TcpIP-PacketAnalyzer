@@ -1,0 +1,11 @@
+c:\users\master\documents\visual studio 2010\Projects\PacketAnalyzerGUI\PacketAnalyzerGUI\obj\x86\Debug\PacketAnalzerGUI.About.resources
+c:\users\master\documents\visual studio 2010\Projects\PacketAnalyzerGUI\PacketAnalyzerGUI\obj\x86\Debug\PacketAnalzerGUI.Form1.resources
+c:\users\master\documents\visual studio 2010\Projects\PacketAnalyzerGUI\PacketAnalyzerGUI\obj\x86\Debug\PacketAnalyzerGUI.Properties.Resources.resources
+c:\users\master\documents\visual studio 2010\Projects\PacketAnalyzerGUI\PacketAnalyzerGUI\obj\x86\Debug\PacketAnalzerGUI.SelectInterface.resources
+c:\users\master\documents\visual studio 2010\Projects\PacketAnalyzerGUI\PacketAnalyzerGUI\obj\x86\Debug\PacketAnalyzerGUI.csproj.GenerateResource.Cache
+c:\users\master\documents\visual studio 2010\Projects\PacketAnalyzerGUI\PacketAnalyzerGUI\bin\Debug\PacketAnalyzerGUI.exe
+c:\users\master\documents\visual studio 2010\Projects\PacketAnalyzerGUI\PacketAnalyzerGUI\bin\Debug\PacketAnalyzerGUI.pdb
+c:\users\master\documents\visual studio 2010\Projects\PacketAnalyzerGUI\PacketAnalyzerGUI\obj\x86\Debug\PacketAnalyzerGUI.exe
+c:\users\master\documents\visual studio 2010\Projects\PacketAnalyzerGUI\PacketAnalyzerGUI\obj\x86\Debug\PacketAnalyzerGUI.pdb
+F:\MyProjects\PacketAnalyzerGUIIN VS2010-2\PacketAnalyzerGUIIN VS2010\PacketAnalyzerGUIIN VS2010\PacketAnalyzerGUI\obj\x86\Debug\PacketAnalyzerGUI.exe
+F:\MyProjects\PacketAnalyzerGUIIN VS2010-2\PacketAnalyzerGUIIN VS2010\PacketAnalyzerGUIIN VS2010\PacketAnalyzerGUI\obj\x86\Debug\PacketAnalyzerGUI.pdb
